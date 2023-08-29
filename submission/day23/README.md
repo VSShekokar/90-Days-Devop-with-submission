@@ -1,5 +1,8 @@
 # Day 23 Task: Jenkins Freestyle Project
 
+<img src="https://img.shields.io/badge/Parag%20Pallav%20Singh-black?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Jenkins Freestyle Project-ffff33?style=for-the-badge&logo=jenkins"/>
+
 # Task-01
 
 ### Create a agent for your app. ( which you deployed from docker in earlier task)
